@@ -1,0 +1,6 @@
+{
+  "name": "SI-ABSENSI RFID & QR Code",
+  "description": "Sistem Absensi Siswa Terintegrasi Berbasis RFID & Barcode/QR Code dengan Kiosk Mode, Live Scanner Kamera, dan Arsitektur IoT ESP32",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
